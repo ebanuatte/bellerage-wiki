@@ -1,4 +1,6 @@
 title: Bellerage WIKI
-supportedLanguages: []
+supportedLanguages:
+  - ru
 properties: []
 language: ru
+style: blue
