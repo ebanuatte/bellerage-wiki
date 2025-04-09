@@ -5,3 +5,4 @@ supportedLanguages:
 properties: []
 language: ru
 style: blue
+logo: ./icon.svg
